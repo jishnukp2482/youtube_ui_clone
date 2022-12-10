@@ -68,6 +68,7 @@ class _ytuiState extends State<ytui> {
               icon: Icon(Icons.video_library), label: "Library"),
         ],
         selectedItemColor: Colors.white,
+      
         unselectedItemColor: Colors.white30,
         type: BottomNavigationBarType.fixed,
         iconSize: 22,
